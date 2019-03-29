@@ -1,0 +1,6 @@
+<!-- index.wxml -->
+<view class="container">
+  <button class="btn" type="primary" loading="{{loading}}" disabled="{{disabled}}" bindtap="test1">
+    测试按钮1
+  </button>
+</view>
